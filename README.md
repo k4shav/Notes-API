@@ -1,7 +1,3 @@
-Here’s a **README.md** for your Notes API GitHub repo — beginner-friendly, complete with setup instructions.
-
----
-
 ```markdown
 # 📝 Notes API
 
