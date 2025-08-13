@@ -29,30 +29,6 @@ Supports creating, reading, updating, and deleting notes with proper validation 
 
 ---
 
-## 📂 Folder Structure
-```
-
-notes-api/
-│
-├── src/
-│   ├── config/               # Firebase setup
-│   │   └── firebase.js
-│   ├── controllers/          # Business logic
-│   │   └── notes.controller.js
-│   ├── routes/               # API routes
-│   │   └── notes.routes.js
-│   ├── validators/           # Request validation schemas
-│   │   └── notes.validator.js
-│   └── app.js                # Express app entry
-│
-├── .env                      # Environment variables
-├── package.json
-└── README.md
-
-````
-
----
-
 ## ⚙️ Setup Instructions
 
 ### 1️⃣ Clone the Repository
